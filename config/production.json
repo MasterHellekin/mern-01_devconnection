@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://Carl:Okami1928@cluster0-hvut0.mongodb.net/socialnetwork?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "8b3743af7b58cdd20b91",
+  "githubSecret": "31f226f5e679509aec8a10ef67d929e50552ff0b"
+}
